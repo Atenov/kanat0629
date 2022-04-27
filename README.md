@@ -9,7 +9,7 @@ define("cars", [
 "Honda"
 "Lada"
 "Kia"
-"KANAT NURDAULET"
+"NURDAULET"
 "KANAT"
 ]);
 echo cars[0];
